@@ -23,6 +23,8 @@ Results are displayed in clean tabs in a Streamlit web UI.
 
 ## 📸 Demo
 
+Live URl - https://job-application-agent-kdthpad8h2xgm4cwrwpx8v.streamlit.app/
+
 **Main UI** — paste a JD and resume, then click *Analyze & Generate*:
 
 ![Main UI](docs/screenshots/01-main-ui.png)
